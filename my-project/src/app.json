@@ -1,0 +1,32 @@
+{
+    "pages": [      
+      "pages/index/main" ,
+      "pages/list/main",
+        "pages/list_detail/main",
+        "pages/movices/main",
+       "pages/movicesDetail/main"
+        
+        
+    ],
+    "window": {
+        "navigationBarBackgroundColor": "#00b51d",
+        "navigationBarTitleText": "豆豆瓣电影"
+    },
+    "requiredBackgroundModes":["audio"],
+    "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/list/main",
+        "text": "首页",
+        "iconPath":"static/tabs/home.png",
+        "selectedIconPath":"static/tabs/home-active.png"
+      },
+      {
+        "pagePath":"pages/movices/main",
+        "iconPath": "static/tabs/orders.png",
+        "text": "电影",
+        "selectedIconPath":"static/tabs/orders-active.png"
+      }
+    ]
+  }
+}
