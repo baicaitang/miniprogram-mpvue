@@ -1,3 +1,5 @@
+还有bug正在修改
+
 # mpcue-test
 
 > A Mpvue project
