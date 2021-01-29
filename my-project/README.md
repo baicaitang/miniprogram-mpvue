@@ -1,4 +1,6 @@
-还有bug正在修改
+# 修改ing...
+
+# 使用小程序mpvue框架做的学习页面
 
 # mpcue-test
 
